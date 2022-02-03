@@ -1,2 +1,2 @@
 # desafio-da-dio
-aprendendo so git e github
+aprendendo sobre git e github criando repositorios !
